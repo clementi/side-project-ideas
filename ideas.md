@@ -29,3 +29,18 @@
 12. **Financial independence calculator** (suggested implementation: web app). [Financial independence](https://www.reddit.com/r/financialindependence/) is, essentially, saving and investing as much of your income as possible so that you don’t need to work for money. While many financially independent people continue to work, they can now focus on doing work that they love, rather than work that pays the most. Build a tool to calculate, based on your: current savings, investments, income, retirement accounts, and expenses, how far away you are from financial independence. Some examples: [FIREcalc](https://www.firecalc.com/), [cFIREsim](http://www.cfiresim.com/).
 
 13. **A bill splitter** (suggested implementation: mobile app). Build a simple tool to help you and your friends split bills when you go out to eat together.
+
+## Games and Simulation
+
+14. **Random name generator** (suggested implementation: CLI, web, or mobile app). Build a random name generator ([example](https://www.behindthename.com/random/)) that creates unique names on the fly, based on an algorithm. Use machine learning techniques to help you by training the program with a sample data set of names similar to those you want to generate. Otherwise, create your own lexical rules for how names are generated. For example, a name generating algorithm inspired by _The Handmaid's Tale_ might stipulate that names for Handmaid women should start with 'Of', and end with a random male name, e.g., Ofpeter.
+
+15. **[Conway's Game of Life]** (suggested implementation: any platform capable of real-time graphical rendering). Conway’s Game of Life simulates the lives of simple cells that obey algorithmic laws. This video explains how the game works and includes an example of one possible result:
+<iframe width="596" height="335" src="https://www.youtube.com/embed/C2vgICfQawE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+16. **A procedurally generated map maker** (suggested implementation: browser-based app). Create a browser-based application that allows users to procedurally generate a terrain map based on a random seed. The map can be as detailed or as simple as you’d like. This project is a good opportunity to learn about [procedural generation](https://en.wikipedia.org/wiki/Procedural_generation).
+
+17. **A character generator** (suggested implementation: browser-based or mobile app, CLI). Create a tool that allows you to randomly generate playable characters for your favorite role-playing games, whether they be tabletop games, like Pathfinder, or video games, like _Divinity: Original Sin_.
+
+18. **Interactive fiction** (suggested implementation: CLI). A fun way to get into game development without having to worry about graphical assets, interactive fiction renders the world for the player through text descriptions. [The Dreamhold](http://eblong.com/zarf/zweb/dreamhold/) is a good example of interactive fiction with a useful ‘help’ command.
+
+
