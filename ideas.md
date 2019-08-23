@@ -34,7 +34,7 @@
 
 14. **Random name generator** (suggested implementation: CLI, web, or mobile app). Build a random name generator ([example](https://www.behindthename.com/random/)) that creates unique names on the fly, based on an algorithm. Use machine learning techniques to help you by training the program with a sample data set of names similar to those you want to generate. Otherwise, create your own lexical rules for how names are generated. For example, a name generating algorithm inspired by _The Handmaid's Tale_ might stipulate that names for Handmaid women should start with 'Of', and end with a random male name, e.g., Ofpeter.
 
-15. **[Conway's Game of Life]** (suggested implementation: any platform capable of real-time graphical rendering). Conway’s Game of Life simulates the lives of simple cells that obey algorithmic laws. [This video](https://www.youtube.com/watch?v=C2vgICfQawE) explains how the game works and includes an example of one possible result.
+15. **[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)** (suggested implementation: any platform capable of real-time graphical rendering). Conway’s Game of Life simulates the lives of simple cells that obey algorithmic laws. [This video](https://www.youtube.com/watch?v=C2vgICfQawE) explains how the game works and includes an example of one possible result.
 
 16. **A procedurally generated map maker** (suggested implementation: browser-based app). Create a browser-based application that allows users to procedurally generate a terrain map based on a random seed. The map can be as detailed or as simple as you’d like. This project is a good opportunity to learn about [procedural generation](https://en.wikipedia.org/wiki/Procedural_generation).
 
