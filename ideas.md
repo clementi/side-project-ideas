@@ -1,4 +1,6 @@
-# CS Fundamentals
+# Side Project Ideas for Software Engineers
+
+## CS Fundamentals
 
 1. **FTP Client** (suggested implementation: web, desktop or CLI app). Build a simple FTP client. As a bonus challenge, support secure file transfer.
 
@@ -14,7 +16,7 @@
 
 7. **Create a downtime SMS alerter** (suggested implementation: app hooked up to the [Twilio API](https://www.twilio.com/docs/api/rest) for sending text messages). Create an app that takes a URL as input and sends you a text message when a request to the URL returns a response code other than 200 (OK).
 
-# Personal Finance
+## Personal Finance
 
 8. **Net worth calculator and tracker** (suggested implementation: CLI, web, or mobile app). Build a calculator you can use to track the rise or fall of your net worth on a monthly basis. You can use something like this [net worth worksheet](http://www.schwabmoneywise.com/public/file/P-4038856/Net-Worth-Worksheet.pdf) from Charles Schwab to guide you. Optional extension: have it send you a 12 month report for the previous year on the first of January each year.
 
