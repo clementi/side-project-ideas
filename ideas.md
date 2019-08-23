@@ -42,4 +42,15 @@
 
 18. **Interactive fiction** (suggested implementation: CLI). A fun way to get into game development without having to worry about graphical assets, interactive fiction renders the world for the player through text descriptions. [The Dreamhold](http://eblong.com/zarf/zweb/dreamhold/) is a good example of interactive fiction with a useful ‘help’ command.
 
+## Artificial Intelligence
+
+19. **An unbeatable Tic-Tac-Toe engine** (suggested implementation: CLI program). For an excellent first AI project, try to write an engine that cannot be beaten at Tic-Tac-Toe. You can achieve this by implementing this [strategy](https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy), which produces a draw as its worst-case outcome.
+
+20. **A chess engine** (suggested implementation: an engine written in a programming language you want to learn, or master). Try to write an engine that can play chess against a human opponent using a [Universal Chess Interface](http://wbec-ridderkerk.nl/html/UCIProtocol.html) compatible GUI, such as XBoard. See [Stockfish](https://github.com/official-stockfish/Stockfish) as an example. For a less daunting challenge, you may wish to focus on the behavior of just one piece, e.g., Knights.
+
+21. **A niche chatbot** (suggested implementation: web app). Some of the greatest minds in the world are working on chatbots that respond in lifelike ways. It’s an incredibly difficult challenge, but, by reducing the scope of your chatbot, you have a side project that is more approachable for evenings and weekends. Create a chatbot that produces real-sounding responses based on a niche topic that you’re passionate about: your favorite band, video game, sports team, or TV show. Leverage an existing library to help you, such as [ChatterBot](https://github.com/gunthercox/ChatterBot).
+
+22. **A spam classifier** (suggested implementation: any programming language you want to master). Build a tool to classify whether an email is or isn’t spam based on the content alone. You can use this [public data set of emails from the Enron investigation](https://www.kaggle.com/wcukierski/enron-email-dataset) to test your spam classifier.
+
+
 
